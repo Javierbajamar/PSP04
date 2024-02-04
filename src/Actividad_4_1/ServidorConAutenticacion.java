@@ -8,7 +8,7 @@ import java.util.Scanner;
 
 public class ServidorConAutenticacion {
     public static void main(String[] args) {
-        int port = 1500;
+        int port = 2000;
         try (ServerSocket serverSocket = new ServerSocket(port)) {
             System.out.println("Servidor escuchando en el puerto " + port);
 

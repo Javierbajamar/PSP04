@@ -2,16 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="363d1c0f-32c7-4acd-aaf9-cc238aa316c6" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PSP04.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Actividad_3_2/EnvioFicherosCliente2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Actividad_4_1/ServidorConAutenticacion.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/text.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Actividad_3_2/EnvioFicherosCliente.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Actividad_3_2/EnvioFicherosCliente.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Actividad_4_1/ServidorConAutenticacion.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Actividad_4_1/ServidorConAutenticacion.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -49,20 +42,7 @@
       <recent name="C:\Users\javie\Desktop\ProjectoDaD\PSP04\src" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.EnvioFicherosCliente2">
-    <configuration name="AdivinaNumeroCliente2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Actividad_3_1.AdivinaNumeroCliente2" />
-      <module name="PSP04" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Actividad_3_1.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.ServidorConAutenticacion">
     <configuration name="EnvioFicherosCliente" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Actividad_3_2.EnvioFicherosCliente" />
       <module name="PSP04" />
@@ -89,12 +69,25 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="EnvioFicherosServidor" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Actividad_3_2.EnvioFicherosServidor" />
+    <configuration name="ServidorConAutenticacion (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Actividad_4_1.ServidorConAutenticacion" />
       <module name="PSP04" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Actividad_3_2.*" />
+          <option name="PATTERN" value="Actividad_4_1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ServidorConAutenticacion (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Actividad_4_1.ServidorConAutenticacion" />
+      <module name="PSP04" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Actividad_4_1.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -117,11 +110,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.EnvioFicherosCliente2" />
         <item itemvalue="Application.ServidorConAutenticacion" />
         <item itemvalue="Application.EnvioFicherosCliente" />
-        <item itemvalue="Application.EnvioFicherosServidor" />
-        <item itemvalue="Application.AdivinaNumeroCliente2" />
+        <item itemvalue="Application.EnvioFicherosCliente2" />
+        <item itemvalue="Application.ServidorConAutenticacion (2)" />
+        <item itemvalue="Application.ServidorConAutenticacion (1)" />
       </list>
     </recent_temporary>
   </component>
@@ -133,7 +126,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1707019079486</updated>
-      <workItem from="1707019082232" duration="1592000" />
+      <workItem from="1707019082232" duration="2651000" />
     </task>
     <servers />
   </component>
