@@ -12,7 +12,7 @@ public class EnvioFicherosCliente {
     public static void main(String[] args) {
         String hostname = "localhost";
         //puerto que usamos
-        int port = 2000;
+        int port = 1500;
 
         //creamos un serverSocket
         try (Socket socket = new Socket(hostname, port);

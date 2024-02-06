@@ -4,7 +4,7 @@
     <list default="true" id="363d1c0f-32c7-4acd-aaf9-cc238aa316c6" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Actividad_3_2/EnvioFicherosCliente.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Actividad_3_2/EnvioFicherosCliente.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Actividad_4_1/ServidorConAutenticacion.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Actividad_4_1/ServidorConAutenticacion.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/text.txt" beforeDir="false" afterPath="$PROJECT_DIR$/text.txt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -30,19 +30,32 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "WebServerToolWindowFactoryState": "false"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\javie\Desktop\ProjectoDaD\PSP04\src" />
     </key>
   </component>
   <component name="RunManager" selected="Application.ServidorConAutenticacion">
+    <configuration name="AdivinaNumeroCliente2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Actividad_3_1.AdivinaNumeroCliente2" />
+      <module name="PSP04" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Actividad_3_1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="EnvioFicherosCliente" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Actividad_3_2.EnvioFicherosCliente" />
       <module name="PSP04" />
@@ -69,25 +82,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ServidorConAutenticacion (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Actividad_4_1.ServidorConAutenticacion" />
+    <configuration name="EnvioFicherosServidor" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Actividad_3_2.EnvioFicherosServidor" />
       <module name="PSP04" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Actividad_4_1.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="ServidorConAutenticacion (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Actividad_4_1.ServidorConAutenticacion" />
-      <module name="PSP04" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Actividad_4_1.*" />
+          <option name="PATTERN" value="Actividad_3_2.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -111,10 +111,10 @@
     <recent_temporary>
       <list>
         <item itemvalue="Application.ServidorConAutenticacion" />
-        <item itemvalue="Application.EnvioFicherosCliente" />
         <item itemvalue="Application.EnvioFicherosCliente2" />
-        <item itemvalue="Application.ServidorConAutenticacion (2)" />
-        <item itemvalue="Application.ServidorConAutenticacion (1)" />
+        <item itemvalue="Application.EnvioFicherosCliente" />
+        <item itemvalue="Application.EnvioFicherosServidor" />
+        <item itemvalue="Application.AdivinaNumeroCliente2" />
       </list>
     </recent_temporary>
   </component>
@@ -126,7 +126,8 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1707019079486</updated>
-      <workItem from="1707019082232" duration="2651000" />
+      <workItem from="1707019082232" duration="2909000" />
+      <workItem from="1707249612547" duration="3023000" />
     </task>
     <servers />
   </component>
